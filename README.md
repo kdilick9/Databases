@@ -1,12 +1,15 @@
 # Databases
 Category Three: Databases
 
-Use command: 
+Use command to build directories:
 ```
 express EnhancementThree
 ```
-to build folder. Within the folder use:
+Within the folder use to install files:
 ```
 npm install
 ```
-to install files.
+Then start the server with the following command:
+```
+npm start
+```

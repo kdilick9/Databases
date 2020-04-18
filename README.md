@@ -7,5 +7,6 @@ express EnhancementThree
 ```
 to build folder. Within the folder use:
 ```
-npm install to build files
+npm install
 ```
+to build files.

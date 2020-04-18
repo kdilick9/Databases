@@ -9,4 +9,4 @@ to build folder. Within the folder use:
 ```
 npm install
 ```
-to build files.
+to install files.
